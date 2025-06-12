@@ -9,7 +9,7 @@ The AI-Powered Blog Creator is a Streamlit application designed to simplify cont
 - **Customizable Output:** Users can customize the generated content to better fit their style or add additional information.
 - **Streamlit Interface:** The application features an intuitive and user-friendly interface powered by Streamlit, ensuring ease of use and accessibility.
 
-![YtoB](https://github.com/Mihaillo29/YouBlog-AI-Youtube-To-Blog/assets/117961472/28a9232a-907b-44cc-b3c7-fe034c3b900b)
+![YtoB](https://github.com/Sidra51/YouBlog-AI-Youtube-To-Blog/assets/117961472/28a9232a-907b-44cc-b3c7-fe034c3b900b)
 
 ## Usage
 
