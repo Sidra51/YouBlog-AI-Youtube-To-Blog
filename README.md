@@ -19,7 +19,7 @@ First Generate Your own Gemini APi Key
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Mihaillo29/YouBlog-AI-Youtube-To-Blog.git
+    git clone https://github.com/Sidra51/YouBlog-AI-Youtube-To-Blog.git
     ```
 
 2. Install dependencies:
